@@ -28,11 +28,11 @@ Each folder in the repository contains a self-contained project with:
 ## 🧩 List of Projects  
 
 ### 📝 Text Processing  
-1. **AI-Powered Text Summarizer**  
-2. **AI-Based Text Generation**  
-3. **AI-Powered Grammar & Spell Checker**  
-4. **AI-Powered Named Entity Recognition (NER)**  
-5. **AI-Powered Sentiment Analysis**  
+1. [**AI-Powered Text Summarizer**](https://github.com/dsharmabtg/DeepSeekMadeEasy/tree/master/01_AI-Powered_Text_Summarizer)  
+2. [**AI-Based Text Generation**](https://github.com/dsharmabtg/DeepSeekMadeEasy/tree/master/02_AI-Based_Text_Generation)  
+3. [**AI-Powered Grammar & Spell Checker**](https://github.com/dsharmabtg/DeepSeekMadeEasy/tree/master/03_AI-Powered_Grammer_And_SpellChecker)  
+4. [**AI-Powered Named Entity Recognition (NER)**](https://github.com/dsharmabtg/DeepSeekMadeEasy/tree/master/04_AI-Powered_NamedEntityRecognition)  
+5. [**AI-Powered Sentiment Analysis**](https://github.com/dsharmabtg/DeepSeekMadeEasy/tree/master/05_AI-Powered_Sentiment_Analysis)  
 
 ### 🤖 Conversational Agents  
 6. **Customer Support ChatBot**  
@@ -68,7 +68,7 @@ Each folder in the repository contains a self-contained project with:
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-username/DeepSeekMadeEasy.git
+git clone https://github.com/dsharmabtg/DeepSeekMadeEasy.git
 cd DeepSeekMadeEasy
 ```
 
