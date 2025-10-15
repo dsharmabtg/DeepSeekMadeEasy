@@ -130,4 +130,4 @@ Contributions are welcome!
 
 ## 📜 License  
 
-This project is licensed under the **GNU License** – free to use and modify.  
+This project is licensed under the **GNU GENERAL PUBLIC LICENSE** – free to use and modify.  
